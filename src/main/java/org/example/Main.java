@@ -18,7 +18,7 @@ import java.time.LocalTime;
             double precioProducto;
             int cantidadHijos;
             float salario;
-            double altura;
+            float altura;
             boolean interruptorEncendido;
             char genero;
             String matriculaVehiculo;
