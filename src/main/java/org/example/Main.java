@@ -14,7 +14,7 @@ import java.time.LocalTime;
 
         public class Variables {
 
-            int edad;
+            byte edad;
             double precioProducto;
             int cantidadHijos;
             double salario;
