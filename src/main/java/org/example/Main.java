@@ -17,7 +17,7 @@ import java.time.LocalTime;
             byte edad;
             double precioProducto;
             int cantidadHijos;
-            double salario;
+            float salario;
             double altura;
             boolean interruptorEncendido;
             char genero;
